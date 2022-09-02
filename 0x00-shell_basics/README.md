@@ -1,2 +1,1 @@
-#!/bin/bash
-my 0x00 project
+Display the contents list of your current directory
