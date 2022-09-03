@@ -1,1 +1,5 @@
-Write a script that prints the absolute path name of the current working directory
+Delete the file betty.
+
+
+
+The file betty is in /tmp/my_first_directory
