@@ -1,1 +1,1 @@
-my 0x00 project
+ a script that creates an alias
