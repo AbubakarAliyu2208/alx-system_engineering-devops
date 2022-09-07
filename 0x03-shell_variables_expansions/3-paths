@@ -1,2 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD PA
+echo $PATH | tr".""\n" | wc -l
