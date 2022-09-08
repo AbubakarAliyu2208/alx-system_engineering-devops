@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” from the file /etc/passwd
+ a script that counts the number of directories and sub-directories in the current directory
