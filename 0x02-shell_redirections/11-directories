@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head
+fine -type d -not -name . | wc - |
